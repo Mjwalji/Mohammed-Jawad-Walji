@@ -1,0 +1,160 @@
+/*Body*/
+h1,h2,h3, {
+    font-weight: 200;
+    line-height: 150%;
+}
+
+Body{background-color: white;
+     font-family: sans-serif;
+     color: black;
+text-align: left;}
+
+ .H01 {font-size: 50px;
+     padding-top: 180px;
+padding-left: 180px;
+padding-right: 180px;
+padding-bottom: 80px;
+text-align: center;} 
+ .Walji{background-color: black;
+        font-size: 50px;
+         color: white;
+        padding: 1px 1px 1px 1px;
+        text-align: center;} 
+
+ .H02{background-color: black;
+      color: white;
+      font-size: 35px;
+      text-decoration: underline;
+      text-decoration-color: white;
+      text-align: center;
+      vertical-align: top;
+      ;
+     }       
+
+ .content{background-color: black;
+ color: white;
+      font-size: 22px;
+      text-align: left;
+  text-indent:0px ;
+    }         
+
+
+  
+
+.H021 {background-color: white;
+      color: black;
+      font-size: 35px;
+      text-decoration: underline;
+      text-decoration-color: Black;
+      text-align: center;
+      vertical-align: top;
+      top: 100px;}
+
+.footer {background-color: skyblue;
+color: black;
+display: flex;
+text-align: center;
+justify-content: center;
+align-items: center;
+font-size: 15px;
+height: 64px;
+}
+
+a {text-decoration: none; background-color: white;color: black;}
+a:hover{background-color:black ;color: white;}
+
+.logo1{position: fixed;
+top: -50px;
+left: -45px;}
+
+.footer1 {background-color: skyblue;
+           text-decoration: underline;
+           height: auto;}
+
+.s1{background-color: black;
+    color: white;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    ;
+}
+
+.s2 {background-color: white;
+     color: black;
+padding: 0px 180px 180px 180px;}
+
+.studentimg {height: 64px;
+width: 64px;
+align-items: center;
+align-content: center;
+}
+
+.computerimg{height: 64px;
+width: 64px;
+align-items: center;
+align-content: center;}
+
+.s3 {background-color: white;
+ color: black;
+ padding: 0px 0px 0px 0px;}
+
+ .ss1 {display: inline;
+width: auto;
+height: auto;
+line-height: inherit;
+vertical-align: baseline;
+background-image: none;
+background-position: 0% 0%;
+background-repeat: repeat;
+vertical-align: middle;
+ }
+
+ .ss2 {display: inline;
+width: auto;
+height: auto;
+line-height: inherit;
+vertical-align: baseline;
+background-image: none;
+background-position: 0% 0%;
+background-repeat: repeat;
+vertical-align: middle;}
+
+
+.sp1 {display: inline;
+width: auto;
+height: auto;
+line-height: inherit;
+vertical-align: baseline;
+background-image: none;
+background-position: 0% 0%;
+     background-repeat: repeat;
+word-wrap: inherit;
+vertical-align: middle;}
+
+.sp2 { display: inline;
+width: auto;
+height: auto;
+line-height: inherit;
+vertical-align: baseline;
+background-image: none;
+background-position: 0% 0%;
+background-repeat: repeat;
+word-wrap: inherit;
+vertical-align: middle;}
+
+.caption {
+    display: block;
+}
+.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 250px;
+    display: inline-block;
+    width: 500px;
+    text-align: center;
+    margin-left: 60px;
+
+}
+
