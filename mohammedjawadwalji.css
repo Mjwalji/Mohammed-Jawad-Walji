@@ -63,7 +63,7 @@ height: 64px;
 a {text-decoration: none; background-color: white;color: black;}
 a:hover{background-color:black ;color: white;}
 
-.logo1{position: fixed;
+.logo1{position: Absolute;
 top: -50px;
 left: -45px;}
 
